@@ -121,6 +121,7 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Jeremy Mauzy's solution](https://github.com/apositivejam/the_odin_project/tree/master/js_euler)
 * [SiriusBlak's solution](https://github.com/SiriusBlak/project_euler)
 * [Mateusz Staszczyk's solution](https://github.com/sleaz0id/Odin-Eulers-Problems)
+* [Dush's Solution](https://github.com/De-Cay/ProjectEuler)
 * Add your solution above this line!
 
 
